@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Vida Nueva Activities</string>
+    <string name="texto_principal">Registro de asistencia</string>
+    <string name="texto_nombre">Ingrese su nombre</string>
+    <string name="registrar">Registrar</string>
+    <string name="verLista">Ver lista de asistencias</string>
+
+
 </resources>
